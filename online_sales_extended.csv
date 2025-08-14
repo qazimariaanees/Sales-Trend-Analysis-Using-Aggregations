@@ -1,0 +1,51 @@
+order_id,order_date,customer_id,product_id,quantity,amount,payment_method,status
+O1000,27-02-2024,C28,P110,8,264,UPI,Delivered
+O1001,25-03-2024,C29,P118,5,2623,UPI,Delivered
+O1002,24-03-2024,C4,P104,6,3574,Cash on Delivery,Delivered
+O1003,31-03-2024,C27,P106,1,2147,Cash on Delivery,Returned
+O1004,13-02-2024,C26,P117,10,3148,Credit Card,Processing
+O1005,18-02-2024,C15,P117,6,227,UPI,Returned
+O1006,01-03-2024,C1,P110,2,3841,Credit Card,Returned
+O1007,15-03-2024,C19,P119,7,2908,Credit Card,Cancelled
+O1008,21-02-2024,C30,P111,1,3735,UPI,Processing
+O1009,16-01-2024,C3,P117,5,2294,Net Banking,Processing
+O1010,26-02-2024,C25,P103,5,2222,Cash on Delivery,Processing
+O1011,12-03-2024,C27,P100,6,4635,Credit Card,Processing
+O1012,25-02-2024,C19,P102,5,791,Cash on Delivery,Delivered
+O1013,17-03-2024,C26,P103,8,2224,UPI,Delivered
+O1014,16-03-2024,C26,P114,8,1907,Net Banking,Returned
+O1015,29-03-2024,C23,P118,3,4706,Cash on Delivery,Delivered
+O1016,13-02-2024,C27,P111,9,2502,UPI,Cancelled
+O1017,03-01-2024,C15,P114,6,416,Cash on Delivery,Returned
+O1018,15-03-2024,C6,P106,4,4319,Net Banking,Delivered
+O1019,25-01-2024,C10,P104,6,168,Cash on Delivery,Processing
+O1020,12-03-2024,C4,P115,3,4576,Cash on Delivery,Processing
+O1021,14-03-2024,C9,P101,9,2098,Cash on Delivery,Delivered
+O1022,04-01-2024,C16,P105,5,260,Net Banking,Processing
+O1023,28-01-2024,C13,P106,4,4453,UPI,Processing
+O1024,17-01-2024,C8,P116,4,4201,UPI,Delivered
+O1025,30-01-2024,C7,P114,5,315,Cash on Delivery,Returned
+O1026,13-03-2024,C25,P115,6,615,Net Banking,Delivered
+O1027,21-03-2024,C30,P101,9,1320,UPI,Returned
+O1028,09-01-2024,C3,P120,9,2055,Net Banking,Processing
+O1029,29-02-2024,C28,P113,2,2985,Net Banking,Returned
+O1030,29-01-2024,C21,P100,6,1600,Credit Card,Processing
+O1031,18-03-2024,C22,P106,9,4426,Credit Card,Returned
+O1032,08-01-2024,C21,P101,3,2626,Credit Card,Delivered
+O1033,04-02-2024,C14,P103,4,1477,Net Banking,Returned
+O1034,23-03-2024,C28,P111,8,611,UPI,Delivered
+O1035,06-02-2024,C5,P108,1,1537,Cash on Delivery,Processing
+O1036,15-02-2024,C27,P103,3,2707,Net Banking,Processing
+O1037,26-03-2024,C27,P112,1,4673,Cash on Delivery,Returned
+O1038,21-02-2024,C16,P110,10,1030,UPI,Processing
+O1039,01-03-2024,C8,P111,2,3428,UPI,Cancelled
+O1040,04-01-2024,C27,P112,7,3561,UPI,Returned
+O1041,20-02-2024,C4,P103,3,4992,UPI,Returned
+O1042,14-02-2024,C15,P101,7,3204,Cash on Delivery,Processing
+O1043,13-02-2024,C13,P108,9,2802,Cash on Delivery,Delivered
+O1044,01-03-2024,C26,P114,8,4914,Net Banking,Cancelled
+O1045,03-01-2024,C10,P111,2,1118,Net Banking,Processing
+O1046,18-02-2024,C1,P100,1,1106,Credit Card,Delivered
+O1047,19-01-2024,C26,P109,3,4127,Net Banking,Processing
+O1048,05-01-2024,C10,P100,4,2001,Cash on Delivery,Processing
+O1049,02-01-2024,C18,P108,10,4289,Net Banking,Cancelled
